@@ -45,7 +45,6 @@ Forkify is a web application designed to make recipe browsing and management a s
 
 ## Walkthrough video :
 
-https://github.com/Sohamp2606/The-Smart-Investment-Guide/assets/106002920/beaf4efd-4ee2-4750-963d-85c9e43353f3
 
 ## Technology Used:
 
