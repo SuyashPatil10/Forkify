@@ -1,6 +1,6 @@
 # Forkify: Your Ultimate Recipe Companion 🍽️
 
-![banner](ProjectPics/Forkify-thumbnail.jpg)
+![Forkify-thumbnail](https://github.com/SuyashPatil10/Forkify/assets/126397075/f6852e43-06b3-408a-a416-058f5d808537)
 
 ## Introduction
 
@@ -75,27 +75,27 @@ https://github.com/Sohamp2606/The-Smart-Investment-Guide/assets/106002920/beaf4e
 
 Main Page after website loads.
 
-![Screenshot 2024-03-09 143708](ProjectPics/pic2.png)
+![pic2](https://github.com/SuyashPatil10/Forkify/assets/126397075/7a29b2e1-cfa9-488d-971e-fe2cf64858c7)
 
 Search Results of Food Recipe.
 
-![list2](ProjectPics/pic3.png)
+![pic3](https://github.com/SuyashPatil10/Forkify/assets/126397075/0b0d042a-2581-451e-be52-e2142c8a9114)
 
 Recipe View - Recipe name, Ingredients, servings with cooking time.
 
-![Screenshot 2024-03-09 145517](ProjectPics/pic4.png)
+![pic4](https://github.com/SuyashPatil10/Forkify/assets/126397075/51cfe942-8b55-4cd9-b278-851e03a22717)
 
 Functionality of Bookmarking Recipe.
 
-![Screenshot 2024-03-09 151249](ProjectPics/pic5.png)
+![pic5](https://github.com/SuyashPatil10/Forkify/assets/126397075/dd47b42c-2ed1-4974-9d9f-cda67bf34c95)
 
 Pagination View - navigate through differnt pages of search results.
 
-![Screenshot 2024-03-09 143944](ProjectPics/pic7.png)
+![pic7](https://github.com/SuyashPatil10/Forkify/assets/126397075/7422d1b7-caf7-4f22-90bf-37bc00e22298)
 
 Functionality of adding our own recipe.
 
-![Screenshot 2024-03-09 143812](ProjectPics/pic6.png)
+![pic6](https://github.com/SuyashPatil10/Forkify/assets/126397075/48c84cc0-932b-4b18-b70d-b39a224df35d)
 
 ## Get Started:
 
